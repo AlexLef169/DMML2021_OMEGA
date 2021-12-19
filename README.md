@@ -19,4 +19,4 @@ We tested a lot of methods explained in the notebook to try to maximize the perf
 
 What we finally obtain :
 
-[Image2](https://user-images.githubusercontent.com/96356769/146658914-d8fdfe29-84b4-4c01-ae9b-82844563a265.png)
+![Image2](https://user-images.githubusercontent.com/96356769/146658914-d8fdfe29-84b4-4c01-ae9b-82844563a265.png)
