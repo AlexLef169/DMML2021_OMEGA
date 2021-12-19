@@ -3,9 +3,12 @@
 Hello !
 
 This is the team OMEGA repository for the Kaggle project at University of Lausanne.
-It is about detecting the difficulty level of French texts.
+
+This project deals with the detection of the difficulty level of French texts.
 
 The team is composed by 2 members : Alexandre Lefebvre and Robin Di Fazio.
+
+We both are students from France in exchange for a semester at HEC Lausanne.
 
 Our approach for this project was to test several classifier algorithms, at first without data cleaning, and to select the most efficient ones.
 You can find the table who sum up our result in the 'code' section in our notebook.
